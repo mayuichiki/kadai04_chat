@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://mayuichiki.github.io/kadai04_chat/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
